@@ -1,0 +1,11 @@
+{
+    "base_url_ui": "https://www.kinopoisk.ru/",
+    "base_url_api": "https://api.kinopoisk.dev/v1.4/",
+    "token_info": {
+        "X-API-KEY": "9SSN3S5-JZ5MX89-MYGYJD3-RBDZYQP"
+    },
+    "auth_credentials": {
+        "username": "ilab.ilab@yandex.ru",
+        "password": "13Gz-ADc-dt2-57r"
+    }
+}
