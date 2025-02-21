@@ -6,7 +6,7 @@
 
 ## Полезные ссылки:
 
-[Ссылка на финальный проект по ручному тестированию]([ЗДЕСЬ_ДОЛЖНА_БЫТЬ_ССЫЛКА](https://ilyabakumov.yonote.ru/share/c342acef-a08b-4e00-b3da-3d7eefa9da7a/doc/test-plan-5sbg3mEIS8)).
+[Ссылка на финальный проект по ручному тестированию](https://ilyabakumov.yonote.ru/share/c342acef-a08b-4e00-b3da-3d7eefa9da7a/doc/test-plan-5sbg3mEIS8).
 
 ## Структура проекта:
 
